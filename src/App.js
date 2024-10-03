@@ -10,7 +10,7 @@ function App() {
         </p>
         <img src={logo} className="App-logo" alt="logo" />
         <p style={{ fontSize: "2rem", fontWeight: "bold" }}>
-          Deploy React Js Project with nginx within docker on AWS ( EC2 )
+          Deploy React Js Project with docker on AWS ( EC2 ) used CICD
         </p>
         <a
           className="App-link"
